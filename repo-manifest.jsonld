@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/HMBSbige/NatTypeTester/commit/a1935d46c5e47ea9447840a2f1dc8d6f30b29fe0",
       "git:hexsha": "a1935d46c5e47ea9447840a2f1dc8d6f30b29fe0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T15:14:34.909408+00:00"
     },
     {
       "@id": "https://repolex.ai/r/HMBSbige/NatTypeTester/commit/86615eda7379533c88b362979f97853f248d8a0f",
